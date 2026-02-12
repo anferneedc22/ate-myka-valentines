@@ -54,7 +54,7 @@ function generateMessage(noCount) {
     "Nooo 😔",
     "Sure kana diyan? 🥺",
     "Baby girl please 🥹",
-    "pls pls pls 😭",
+    "sorry na please 😭",
     "aray ko 💔",
     "huhuhu 😭💔",
   ];
